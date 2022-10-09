@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DUT-CSJ
 - 👀 I’m interested in Computer Vision
-- 🌱 I’m going to be a master in DUT
+- 🌱 I’m a Msc. in DUT
 - 📫 My email: dutcsj@gamil.com / 954323022@qq.com
 
 <!---
