@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DUT-CSJ
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m a PhD. student in DUT
-- 📫 My email: dutcsj@gamil.com / csj@mail.dlut.edu.cn
+- 👀 I’m interested in Computer Vision and Crystal Structure Prediction with Single-crystal Diffraction
+- 🌱 I’m a PhD. student in DUT and DICP
+- 📫 My email: dutcsj@gamil.com / csj@mail.dlut.edu.cn / csj@dicp.ac.cn
 
 <!---
 DUT-CSJ/DUT-CSJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
